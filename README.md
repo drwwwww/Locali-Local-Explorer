@@ -1,6 +1,6 @@
-# Local Explorer 🌍
+# Locali - Local Explorer 🌍
 
-Local Explorer is a terminal-based Python tool that provides users with **real-time weather**, **local news**, and **upcoming events** for any city they enter. It's a quick way to explore a city before a trip or just stay informed about your hometown.
+Locali is a terminal-based Python tool that provides users with **real-time weather**, **local news**, and **upcoming events** for any city they enter. It's a quick way to explore a city before a trip or just stay informed about your hometown.
 
 ---
 
